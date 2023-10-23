@@ -36,3 +36,10 @@ The house with a clock in its walls
 Kong Skull Island
 Pacific Rim
 Saving Private Ryan
+Encanto
+The Batman
+Suicide Squad
+Joker
+The Martian
+Curella
+Raya and the Last Dragon
