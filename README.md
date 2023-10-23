@@ -1,6 +1,6 @@
 # Dolby-Atmos-Movies-UK
 
-Title|Year|SteamingService
+Title|Year|SteamingService|UHD?|Atmos?|
 ---|---|---
 Dune|2021|Prime
 Prey||
@@ -35,3 +35,4 @@ Bohemian Rhapsody
 The house with a clock in its walls
 Kong Skull Island
 Pacific Rim
+Saving Private Ryan
